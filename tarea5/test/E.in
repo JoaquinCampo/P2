@@ -1,0 +1,12 @@
+filtradaOrdenada -1
+filtradaOrdenada 6 0
+insertarAlFinal 6 0.0
+filtradaOrdenada -1
+filtradaOrdenada 6 0
+filtradaOrdenada 5 0
+filtradaOrdenada -1
+insertarAlFinal 4 0.0
+insertarAlFinal 5 0.0
+filtradaOrdenada -1
+filtradaOrdenada 5 6 7 0
+Fin

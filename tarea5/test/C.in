@@ -1,0 +1,21 @@
+insertarEnAbb (50,0)
+insertarEnAbb (30,0)
+insertarEnAbb (45,0)
+insertarEnAbb (40,0)
+insertarEnAbb (70,0)
+insertarEnAbb (60,0)
+insertarEnAbb (65,0)
+rotar 30 LL
+rotar 70 RR
+imprimirAbb
+rotar 70 LR
+rotar 30 RL
+imprimirAbb
+rotar 40 RL
+rotar 40 LR
+imprimirAbb
+rotar 50 LL
+imprimirAbb
+rotar 40 RR
+imprimirAbb
+Fin
